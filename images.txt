@@ -11,3 +11,4 @@ milvusdb/milvus:v2.3.4
 mysql:latest
 freeren/qanything:v1.2.2
 mintplexlabs/anythingllm
+cr2.fit2cloud.com/1panel/maxkb
