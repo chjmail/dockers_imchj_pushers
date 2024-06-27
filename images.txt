@@ -1,3 +1,2 @@
-nginx
-mintplexlabs/anythingllm
-infiniflow/ragflow:v0.7.0
+redis:latest
+elasticsearch:7.17.3
