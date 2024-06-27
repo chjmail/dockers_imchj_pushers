@@ -1,3 +1,3 @@
 nginx
 mintplexlabs/anythingllm
-cr2.fit2cloud.com/1panel/maxkb
+infiniflow/ragflow:v0.7.0
