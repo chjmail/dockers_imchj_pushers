@@ -1,2 +1,1 @@
-redis:latest
-elasticsearch:7.17.3
+nvcr.io/nvidia/pytorch:23.10-py3
